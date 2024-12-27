@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.pinkBorder{
+    background-color:  #FFAEAF;
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 96px;
+    margin-top: 64px;
+}
+.mainDiv{
+   max-width: 1412px;
+   background-color: #ffff;
+   margin: 0 auto;
+   padding: 96px;
+}
+.mainDiv >*{
+    margin: 96px 0;
+}
+header >*{
+    margin-bottom: 12px;
+}
+.title{
+    text-align: center;
+    margin-top: unset;
+}
+header span{
+    color: #ED00A6;
+    font-size: 16px;
+}
+header p{
+    color: #535862;
+    font-size: 20px;
+}
+header h1{
+    color: #181D27;
+    font-size: 48px;
+}
+.leftBox{
+    margin-left: auto;
+    width: max-content;
+}
+main >*{
+    margin-bottom: 96px;
+}
+
